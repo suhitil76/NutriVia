@@ -5,7 +5,7 @@ class AppStrings {
       'tagline': 'Midlife Nutrition & Health Companion',
       'nav_home': 'Home',
       'nav_track': 'Track',
-      'nav_eat': 'Eat',
+      'nav_eat': 'Eat' , 
       'nav_me': 'Me',
       'nav_assistant': 'Sakhi',
       'sample_data_badge': 'Sample data',
